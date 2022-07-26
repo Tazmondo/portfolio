@@ -9,7 +9,7 @@ const IndexPage = () => {
         <main style={styles.pageStyles}>
             <title>Home Page</title>
             <h1 style={styles.headingStyles}>My <span style={styles.headingAccentStyles}>Portfolio</span></h1>
-            <p style={styles.descriptionStyle}> This looks kind of awful but it will get better... </p>
+            <p style={styles.descriptionStyle}> WIP 26/7/22</p>
             <Link style={styles.docLinkStyle} to={"/about"}>About me</Link>
             <Counter/>
         </main>
