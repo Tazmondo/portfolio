@@ -9,9 +9,10 @@ const IndexPage = () => {
         <main style={styles.pageStyles}>
             <title>Home Page</title>
             <h1 style={styles.headingStyles}>My <span style={styles.headingAccentStyles}>Portfolio</span></h1>
-            <p style={styles.descriptionStyle}> WIP 26/7/22</p>
+            <p style={styles.descriptionStyle}> {"WIP ->"} </p>
             <Link style={styles.docLinkStyle} to={"/about"}>About me</Link>
             <Counter/>
+            <p><a style={styles.linkStyle} href="https://github.com/Tazmondo/">Back to my github</a></p>
         </main>
     )
 }
