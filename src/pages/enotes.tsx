@@ -10,7 +10,8 @@ const EnotesPage = () => {
             <a style={bookmarkStyle} href={bypass}>Drag/Add me to your bookmarks!</a>
             <h2 style={styles.headingAccentStyles}>Instructions</h2>
             <p style={styles.paragraphStyles}>
-                Once added to your bookmarks, just click on it when you're on an enotes page and the blur should
+                Drag the above link into your bookmarks (not this website itself, just that link). Once added to your
+                bookmarks, just click on it when you're on an enotes page and the blur should
                 disappear. You can rename it if you want.
             </p>
             <p style={styles.paragraphStyles}>
