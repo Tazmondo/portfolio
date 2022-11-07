@@ -14,6 +14,7 @@ export const headingAccentStyles = {
 }
 export const paragraphStyles = {
     marginBottom: 48,
+    maxWidth: "75ch"
 }
 export const codeStyles = {
     color: "#8A6534",
